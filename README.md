@@ -1,3 +1,3 @@
 # poke-quiz
 
-simple jquery pokemon quiz : joshuabarts.github.io/poke-quiz
+simple jquery pokemon quiz : https://joshuabarts.github.io/poke-quiz/
